@@ -4,7 +4,7 @@
 $ cp .env-sample .env
 $ vi .env
  - edit .env for your liking
- - SHIFT ZQ to save
+ - SHIFT ZZ to save
 $ docker-compose up -d
 ```
 ## Edit files within the www/ folder
